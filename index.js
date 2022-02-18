@@ -9,7 +9,7 @@ let imgCont = document.querySelector('.imgCont');
 let pokeImg = document.querySelector('.pokeImg');
 let pokeId = document.querySelector('.pokeId');
 let pokeTipos = document.querySelector('.pokeTipos');
-let pokeStats = document.querySelector('.pokeStats');
+let pokeStats = document.querySelector('.pokeStats'); 
 
 let tipoColores = {
     electric: '#FFEA70',
